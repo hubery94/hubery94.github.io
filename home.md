@@ -3,9 +3,10 @@ layout: page
 title: Home
 permalink: /home/
 ---
+<p class="STYLE9"><span class="STYLE20">Education Background</span></p>
 
 <p>
-	<table id="table" >
+	<table id="table" class="STYLE116">
 
 	<tr>   
 	<td >2015-</td>
