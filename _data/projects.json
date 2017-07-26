@@ -4,7 +4,7 @@
 		"image": "retriveal.jpg",
 	    "url": "#",
 		"date": "2017.07",
-		"tags": ["Pattern Recognition","Retrieval"]
+		"tags": ["Deep Learning","Retrieval"]
 	},
 	
 	{
@@ -12,14 +12,14 @@
 		"image": "face.jpg",
 		"url": "#",
 		"date": "2016.10",
-		"tags": ["Pattern Recognition","Face Detection"]
+		"tags": ["Face Detection"]
 	},
 	{
 		"name": "ImageNet大规模图像识别挑战赛",
 		"image": "detect.jpg",
 		"url": "#",
 		"date": "2016.06",
-		"tags": ["Pattern Recognition","Deep Learning"]
+		"tags": ["Detection","Deep Learning"]
 	},
 	{
 		"name": "基于视频的复杂场景下的目标跟踪及轨迹管理系统",
