@@ -21,8 +21,9 @@ permalink: /resume/
 	</tr>
 	</table>
 </p>
-<h3><strong> Publications</strong> </h3>
 <br>
+<h3><strong> Publications</strong> </h3>
+
 <ul>
 <li>W. Huang, R. Hu, C. Liang, W. Ruan and B. Luo. Structural superpixel descriptor for visual tracking, International Joint Conference on Neural Networks, Anchorage, AK, 2017, pp. 3146-3152. <a href="http://ieeexplore.ieee.org/document/7966248/">[pdf]</a><br></li>
 <br/>
@@ -33,26 +34,27 @@ permalink: /resume/
 
 <br>
 <h3><strong> Patent</strong> </h3>
-<br>
+
 <ul>
 <li> 一种基于局部分类的目标跟踪方法及系统 </li>
 </ul>
 
 <br>
-
 <h3> <strong> Competition Experience</strong> </h3>
-<br>
+
 <p align='center'>
 	<table id="table" class="table table-bordered table-striped table-condensed">
 	<tr>   
 	<td >Date</td>
 	<td>Name</td>
 	<td> Prize</td>
+	<td> Data</td>
 	</tr>
 	<tr>   
 	<th >2017.4</th>
 	<th> HUAWEI Code Craft</th>
 	<th> Silver Medal</th>
+	<th> <a href="https://github.com/hubery94/CDN_HUAWEI">Project</a></th>
 	</tr>
 	</table>
 </p>
