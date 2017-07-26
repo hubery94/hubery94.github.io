@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Welcome To Wenjun's Home
 permalink: /home/
 ---
