@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Wenjun Hunag
+title:  Wenjun Huang
 permalink: /resume/
 ---
 <h3><strong> Education Background</strong> </h3>
