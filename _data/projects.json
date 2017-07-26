@@ -2,6 +2,7 @@
 	{
 		"name": "行人精确检索",
 		"image": "retriveal.jpg",
+	    "url": "#",
 		"date": "2017.07",
 		"tags": ["Android","nodejs"]
 	},
