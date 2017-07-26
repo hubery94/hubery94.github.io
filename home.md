@@ -3,9 +3,8 @@ layout: page
 title: Home
 permalink: /home/
 ---
-{% highlight ruby %}
+
 <p align='center'> Education Background </p>
-{% endhighlight %}
 
 <p>
 	<table id="table">
