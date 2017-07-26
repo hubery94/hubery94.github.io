@@ -1,22 +1,28 @@
-# main text of home
-name: Wenjun Huang
-bio: A Boy who wants more
+title: Wenjun Huang
+description: My Personal Home Page
+author: Wenjun Huang
+logo: /hcz-jekyll-blog/static/img/avatar.png
+github: https://github.com/codeasashu
+about: Master
 
-# twitter summary info
-description: A blog about technology and stuff related
+baseurl: ""
+url: ""
 
-picture: assets/images/hwj.jpg
+allowsearch: true
 
-url: https://hubery94.github.io/
-# your url: http://USERNAME.github.io
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
 
-# if you don't have any of social below, comment the line
-# facebook: myfacebook
-# twitter: mytwitter
-github: hubery94
-email:  2011huang@whu.edu.cn
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
 
-gems:
-  - jekyll-seo-tag
 
-exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
