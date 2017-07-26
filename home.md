@@ -6,8 +6,8 @@ permalink: /home/
 
 
 <p align='center'> Education Background </p>
-<p class="table table-bordered table-striped table-condensed">
-	<table id="table">
+<p align='center'>
+	<table id="table" class="table table-bordered table-striped table-condensed">
 	<tr>   
 	<td >2015-</td>
 	<td>M.S.</td>
