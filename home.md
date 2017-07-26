@@ -3,8 +3,9 @@ layout: page
 title: Home
 permalink: /home/
 ---
-<p class="STYLE9"><span class="STYLE20">Education Background</span></p>
 
+<p class="STYLE9"><span class="STYLE20">Education Background</span></p>
+{% highlight ruby %}
 <p>
 	<table id="table" class="STYLE116">
 
@@ -22,3 +23,4 @@ permalink: /home/
 	</tr>
 	</table>
 </p>
+{% endhighlight %}
