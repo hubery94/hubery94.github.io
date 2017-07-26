@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Home
+title: Welcome To Wenjun's Home
 permalink: /home/
 ---
 
 <p align='center'> Education Background </p>
 
-<p>
+<p align='center'>
 	<table id="table">
 	<tr>   
 	<td >2015-</td>
