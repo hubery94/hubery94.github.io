@@ -4,6 +4,7 @@ title:  Wenjun Hunag
 permalink: /resume/
 ---
 <h3><strong> Education Background</strong> </h3>
+<br>
 <p align='center'>
 	<table id="table" class="table table-bordered table-striped table-condensed">
 	<tr>   
@@ -21,7 +22,7 @@ permalink: /resume/
 	</table>
 </p>
 <h3><strong> Publications</strong> </h3>
-
+<br>
 <ul>
 <li>W. Huang, R. Hu, C. Liang, W. Ruan and B. Luo. Structural superpixel descriptor for visual tracking, International Joint Conference on Neural Networks, Anchorage, AK, 2017, pp. 3146-3152. <a href="http://ieeexplore.ieee.org/document/7966248/">[pdf]</a><br></li>
 <br/>
@@ -32,6 +33,7 @@ permalink: /resume/
 
 <br>
 <h3><strong> Patent</strong> </h3>
+<br>
 <ul>
 <li> 一种基于局部分类的目标跟踪方法及系统 </li>
 </ul>
@@ -39,7 +41,7 @@ permalink: /resume/
 <br>
 
 <h3> <strong> Competition Experience</strong> </h3>
-
+<br>
 <p align='center'>
 	<table id="table" class="table table-bordered table-striped table-condensed">
 	<tr>   
@@ -50,7 +52,7 @@ permalink: /resume/
 	<tr>   
 	<th >2017.4</th>
 	<th> HUAWEI Code Craft</th>
-	<th> SIlver Medal</th>
+	<th> Silver Medal</th>
 	</tr>
 	</table>
 </p>
