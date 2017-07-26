@@ -5,11 +5,6 @@
     "icon": "fa-home",
   },
   {
-    "text": "About",
-    "url": "/about/",
-    "icon": "fa-comments"
-  },
-  {
     "text": "Projects",
     "url": "/projects",
     "icon": "fa-desktop"
@@ -23,11 +18,5 @@
     "text": "Github",
     "url": "https://github.com/hubery94",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]
