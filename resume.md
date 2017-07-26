@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome To Wenjun's Home
-permalink: /home/
+title:  Wenjun Hunag
+permalink: /resume/
 ---
 
 
