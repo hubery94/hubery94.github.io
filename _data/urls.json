@@ -3,6 +3,8 @@
     "text": "Home",
     "url": "/",
     "icon": "fa-home",
+	"layout": "default"
+
   },
   {
     "text": "Projects",
