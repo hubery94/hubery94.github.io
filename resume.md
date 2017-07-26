@@ -5,7 +5,7 @@ permalink: /resume/
 ---
 
     <h2 id="#identifier">Education Background</h2>
-
+<p align='center'>
 	<table id="table" class="table table-bordered table-striped table-condensed">
 	<tr>   
 	<td >2015-2018</td>
@@ -20,7 +20,7 @@ permalink: /resume/
 	<th> Wuhan University (China)  </th>
 	</tr>
 	</table>
-
+</p>
 <h3>Publications</h3>
 
 <ul>
