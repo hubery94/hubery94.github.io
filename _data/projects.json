@@ -1,8 +1,8 @@
 [
 	{
-		"name": "复杂场景行人精确检索&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+		"name": "复杂场景行人精确检索",
 		"image": "retriveal.jpg",
-	    "url": "#",
+	    "url": "/retrieval/",
 		"date": "2017.07",
 		"tags": ["Deep Learning","Retrieval"]
 	},
