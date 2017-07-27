@@ -10,21 +10,21 @@
 	{
 		"name": "基于监控视频的人脸跟踪系统",
 		"image": "face.jpg",
-		"url": "#",
+		"url": "/static/projects/retrieval/",
 		"date": "2016.10",
 		"tags": ["Face Detection"]
 	},
 	{
 		"name": "ImageNet大规模图像识别挑战赛",
 		"image": "detect.jpg",
-		"url": "#",
+		"url": "/static/projects/retrieval/",
 		"date": "2016.06",
 		"tags": ["Detection","Deep Learning"]
 	},
 	{
 		"name": "基于视频的复杂场景下的目标跟踪及轨迹管理系统",
 		"image": "track.jpg",
-		"url": "#",
+		"url": "/static/projects/retrieval/",
 		"date": "2015.12",
 		"tags": ["Pattern Recognition","Tracking"]
 	}
