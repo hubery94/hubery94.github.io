@@ -25,7 +25,7 @@ permalink: /resume/
 <h3><strong> Publications</strong> </h3>
 
 <ul>
-<li> Wenjun Huang, Chao Liang, Yu Yi, Zheng Wang, Weijian Ruan and Ruimin Hu. Video-based Person Re-identification via Self Paced Weighting, Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018. Accepted</li>
+<li> Wenjun Huang, Chao Liang, Yu Yi, Zheng Wang, Weijian Ruan and Ruimin Hu. Video-based Person Re-identification via Self Paced Weighting, Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2018. Accepted. <a href="http://mmap.whu.edu.cn/wp-content/uploads/2017/11/aaai-18_wenjun_huang.pdf">[pdf]</a> </li>
 <br/>
 <li>W. Huang, R. Hu, C. Liang, W. Ruan and B. Luo. Structural superpixel descriptor for visual tracking, International Joint Conference on Neural Networks, Anchorage, AK, 2017, pp. 3146-3152. <a href="http://ieeexplore.ieee.org/document/7966248/">[pdf]</a><br></li>
 <br/>
