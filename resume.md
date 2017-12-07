@@ -20,13 +20,8 @@ permalink: /resume/
 	</tr>
 	</table>
 </p>
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 <br>
-=======
->>>>>>> parent of 27f100f... up
-=======
->>>>>>> parent of 27f100f... up
 <h3><strong> Publications</strong> </h3>
 
 <ul>
@@ -36,19 +31,10 @@ permalink: /resume/
 <br/>
 <li>Ruan W, Chen J, Wang J, et al. Boosted local classifiers for visual tracking, IEEE International Conference on Multimedia and Expo. IEEE, 2016:1-6. <a href="http://xueshu.baidu.com/s?wd=paperuri%3A%280360dcd84af6cb13845183be4ec5f6ec%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fdocument%2F7552903%2F&ie=utf-8&sc_us=3432304471175397605">[pdf]</a></li>
 <br/>
-<!--<li>Wenjun Huang, Chao Liang, Yu Yi, Zheng Wang, Weijian Ruan and Ruimin Hu. Video based person re-identification with unregulated sequences(submited to ICASSP). -->
 </ul>
 
 <br>
-<<<<<<< HEAD
 <h3><strong> Awards (in the last two years)</strong> </h3>
-
-=======
-<h3><strong> Patent</strong> </h3>
-<<<<<<< HEAD
->>>>>>> parent of 27f100f... up
-=======
->>>>>>> parent of 27f100f... up
 <ul>
 <li> National Scholarship, 2017. </li>
 <br/>
@@ -71,16 +57,10 @@ permalink: /resume/
 	<tr>   
 	<th >2017.4</th>
 	<th> HUAWEI Code Craft</th>
-<<<<<<< HEAD
-<<<<<<< HEAD
 	<th> Silver Medal</th>
 	<th> <a href="https://github.com/hubery94/CDN_HUAWEI">Project</a></th>
-=======
 	<th> SIlver Medal</th>
->>>>>>> parent of 27f100f... up
-=======
 	<th> SIlver Medal</th>
->>>>>>> parent of 27f100f... up
 	</tr>
 	</table>
 </p>
