@@ -4,7 +4,6 @@ title:  Wenjun Huang
 permalink: /resume/
 ---
 <h3><strong> Education Background</strong> </h3>
-<br>
 <p align='center'>
 	<table id="table" class="table table-bordered table-striped table-condensed">
 	<tr>   
@@ -21,7 +20,10 @@ permalink: /resume/
 	</tr>
 	</table>
 </p>
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> parent of 27f100f... up
 <h3><strong> Publications</strong> </h3>
 
 <ul>
@@ -35,8 +37,12 @@ permalink: /resume/
 </ul>
 
 <br>
+<<<<<<< HEAD
 <h3><strong> Awards (in the last two years)</strong> </h3>
 
+=======
+<h3><strong> Patent</strong> </h3>
+>>>>>>> parent of 27f100f... up
 <ul>
 <li> National Scholarship, 2017. </li>
 <br/>
@@ -59,8 +65,12 @@ permalink: /resume/
 	<tr>   
 	<th >2017.4</th>
 	<th> HUAWEI Code Craft</th>
+<<<<<<< HEAD
 	<th> Silver Medal</th>
 	<th> <a href="https://github.com/hubery94/CDN_HUAWEI">Project</a></th>
+=======
+	<th> SIlver Medal</th>
+>>>>>>> parent of 27f100f... up
 	</tr>
 	</table>
 </p>
