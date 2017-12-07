@@ -59,8 +59,6 @@ permalink: /resume/
 	<th> HUAWEI Code Craft</th>
 	<th> Silver Medal</th>
 	<th> <a href="https://github.com/hubery94/CDN_HUAWEI">Project</a></th>
-	<th> SIlver Medal</th>
-	<th> SIlver Medal</th>
 	</tr>
 	</table>
 </p>
