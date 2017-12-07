@@ -40,7 +40,7 @@ permalink: /resume/
 <br/>
 <li> The First Prize Scholarship, Wuhan University, 2017. </li>
 </br>
-<li> Outstanding Postgraduate Student, 2017. </li>
+<li> Outstanding Postgraduate Student, Wuhan University, 2017. </li>
 </ul>
 
 <br>

@@ -4,14 +4,16 @@
 		"image": "retriveal.jpg",
 		"url":  "https://github.com/hubery94/hubery94.github.io",
 		"date": "2017.07",
-		"tags": ["Deep Learning","Retrieval"]},
+		"tags": ["Deep Learning","Retrieval"]
+	},
 	
 	{
 		"name": "基于监控视频的人脸跟踪系统",
 		"image": "face.jpg",
 		"url": "/static/projects/retrieval/",
 		"date": "2016.10",
-		"tags": ["Face Detection"]	},
+		"tags": ["Face Detection"]	
+	},
 	{
 		"name": "ImageNet大规模图像识别挑战赛",
 		"image": "detect.jpg",
