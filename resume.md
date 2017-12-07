@@ -21,7 +21,10 @@ permalink: /resume/
 	</table>
 </p>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <br>
+=======
+>>>>>>> parent of 27f100f... up
 =======
 >>>>>>> parent of 27f100f... up
 <h3><strong> Publications</strong> </h3>
@@ -42,6 +45,9 @@ permalink: /resume/
 
 =======
 <h3><strong> Patent</strong> </h3>
+<<<<<<< HEAD
+>>>>>>> parent of 27f100f... up
+=======
 >>>>>>> parent of 27f100f... up
 <ul>
 <li> National Scholarship, 2017. </li>
@@ -66,8 +72,12 @@ permalink: /resume/
 	<th >2017.4</th>
 	<th> HUAWEI Code Craft</th>
 <<<<<<< HEAD
+<<<<<<< HEAD
 	<th> Silver Medal</th>
 	<th> <a href="https://github.com/hubery94/CDN_HUAWEI">Project</a></th>
+=======
+	<th> SIlver Medal</th>
+>>>>>>> parent of 27f100f... up
 =======
 	<th> SIlver Medal</th>
 >>>>>>> parent of 27f100f... up

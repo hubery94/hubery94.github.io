@@ -1,7 +1,11 @@
 [
 	{
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"name": "基于复杂场景的行人精确检索",
+=======
+		"name": "行人精确检索&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+>>>>>>> parent of 27f100f... up
 =======
 		"name": "行人精确检索&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
 >>>>>>> parent of 27f100f... up
@@ -9,7 +13,11 @@
 		"url":  "https://github.com/hubery94/hubery94.github.io",
 		"date": "2017.07",
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"tags": ["Deep Learning","Retrieval"]
+=======
+		"tags": ["Android","nodejs"]
+>>>>>>> parent of 27f100f... up
 =======
 		"tags": ["Android","nodejs"]
 >>>>>>> parent of 27f100f... up
@@ -21,7 +29,11 @@
 		"url": "/static/projects/retrieval/",
 		"date": "2016.10",
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"tags": ["Face Detection"]
+=======
+		"tags": ["Angular JS","API"]
+>>>>>>> parent of 27f100f... up
 =======
 		"tags": ["Angular JS","API"]
 >>>>>>> parent of 27f100f... up
@@ -32,7 +44,11 @@
 		"url": "/static/projects/retrieval/",
 		"date": "2016.06",
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"tags": ["Detection","Deep Learning"]
+=======
+		"tags": ["Android","PHP"]
+>>>>>>> parent of 27f100f... up
 =======
 		"tags": ["Android","PHP"]
 >>>>>>> parent of 27f100f... up
@@ -41,9 +57,15 @@
 		"name": "基于视频的复杂场景下的目标跟踪及轨迹管理系统",
 		"image": "track.jpg",
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"url": "/static/projects/retrieval/",
 		"date": "2015.12",
 		"tags": ["Pattern Recognition","Tracking"]
+=======
+		"url": "#",
+		"date": "June 2014",
+		"tags": ["HTML","JQuery","PHP"]
+>>>>>>> parent of 27f100f... up
 =======
 		"url": "#",
 		"date": "June 2014",
